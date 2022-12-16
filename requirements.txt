@@ -1,9 +1,0 @@
-streamlit
-folium
-streamlit_folium
-xarray
-gcsfs
-matplotlib
-zarr
-geopandas
-rasterio
